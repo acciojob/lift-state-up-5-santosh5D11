@@ -1,1 +1,23 @@
+body {
+  font-family: "Times New Roman", serif;
+}
 
+.form-now {
+  display: flex;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.form-row label {
+  width: 70px;
+}
+
+.form-row input {
+  width: 145px;
+  padding: 5px;
+}
+
+button {
+  padding: 4px 10px;
+  cursor: pointer;
+}
